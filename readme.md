@@ -113,7 +113,7 @@ To get started with this project, you can follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/Pratik94229/Credit-Card-Default-Prediction---End-to-End-Project.git
+   git clone https://github.com/shafiankhan-Credit-Card-Default-Prediction-End-to-End-Project.git
    ```
 
 2. Install the required dependencies:
